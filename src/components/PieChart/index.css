@@ -1,0 +1,7 @@
+.pie-chart-bg-container {
+  background-color: rgb(240, 8, 202);
+  color: white;
+  border-radius: 16px;
+  display: flex;
+  justify-content: center;
+}
